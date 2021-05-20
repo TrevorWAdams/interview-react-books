@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "id": 1, "name": "Tom Jones" },
+    { "id": 2, "name": "Sally Fields" }
+  ],
+  "books": [
+    { "id": 1, "name": "Some Book", "userId": 1, "quantity": 10, "price": 999 },
+    { "id": 2, "name": "Another Book", "userId": 1, "quantity": 2, "price": 1999 }
+  ]
+}
